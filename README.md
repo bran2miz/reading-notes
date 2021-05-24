@@ -14,7 +14,7 @@ For myself, I am very much in a fixed mindest. I am always second-guessing mysel
 
 However, by taking this first step in joining CodeFellows, I feel like I am beginning to develop a growth mindset. 
 
-To me growth mindset is the desire to want to make changes in your life, believing in yourself, and drowning out the sound that tells you that you can't.
+Even though this is just the start, growth mindset is the desire to want to make changes in your life, believing in yourself, and drowning out the sound that tells you that you can't.
 
 - Remind yourself that you are able to succeed.
 - Be willing and open to make mistakes, and get back up if you fail.
