@@ -10,7 +10,7 @@ My name is Brandon Mizutani. I am a current student at CodeFellows. I love to tr
 
 For myself, I am very much in a fixed mindest. I am always second-guessing myself and believe that I cannot change. I avoid and detract away from obstacles, mainly because I don't like to fail. A primary example was losing my job. I felt instant *sadness* and *hopelessness*.
 
-###### The worst feeling was my questioning of why try when what happens is **FAILURE**.
+###### The worst feeling was the my idea that risk-taking leads to **FAILURE**.
 
 However, by taking this first step in joining CodeFellows, I feel like I am beginning to develop a growth mindset. 
 
