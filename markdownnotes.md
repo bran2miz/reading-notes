@@ -2,7 +2,7 @@
 
 When I first learned coding in high school, the coding format was not only long but seemingly difficult. For example using the symbols, *<* and *>*, it would look something like this:
 
-> i.e. <html>
+> i.e. < html>
 >      < body>< /body>
 >          < /html>
 
