@@ -14,8 +14,8 @@ With a simple asteric sign * one can make text **Bold** and *italic*. You can ev
 
 There are a number of excited and new aspects of markdown that you can experience for yourself that will ~~excited~~ **Blow Your Mind!!** For example, creating tables is such a breeze! Using the symbol, *-* and |,
 
-> Your Own | Table
-> -------- | -----
+> Your Own (|) Table
+> -------- (|) -----
 > Add your own text in the first box here |(pressing shift + \ to separate each cell)
 
 Your Own | Table
