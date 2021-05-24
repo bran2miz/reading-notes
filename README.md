@@ -22,8 +22,9 @@ To me growth mindset is the desire to want to make changes in your life, believi
 
 ![Image of Happiness](https://thumbs.dreamstime.com/z/woman-praying-free-birds-to-nature-sunset-background-woman-praying-free-birds-enjoying-nature-sunset-99680945.jpg)
 
+### If you would like to see my github profile below is the link!
 
-
+> https://github.com/bran2miz
 
 
 ### This is a Heading 3
