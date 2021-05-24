@@ -16,8 +16,7 @@ To me growth mindset is the desire to want to make changes in your life, believi
 - Be willing and open to make mistakes, and get back up if you fail.
 - Even the darkest of times, have a positive mental attitude to difficult challenges that may come. 
 
-![Image of Smiling Computer]
-(https://www.iconspng.com/images/happy-computer-laptop/happy-computer-laptop.jpg)
+![Image of Smiling Computer](https://www.iconspng.com/images/happy-computer-laptop/happy-computer-laptop.jpg)
 
 
 
