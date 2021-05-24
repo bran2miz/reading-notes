@@ -3,8 +3,8 @@
 When I first learned coding in high school, the coding format was not only long but seemingly difficult. For example using the symbols, *<* and *>*, it would look something like this:
 
 > i.e. <html>
->      <body></body>
->          </html>
+>      < body>< /body>
+>          < /html>
 
 However, learning markdown has has shown me the wonders on how technology has truly changed over the course of a decade. In the most simplest of terms, markdown is the newest language to create one's own webpage. Used on the plaform known as Github, **writing codes that once took _several hours_** (in my case several days), takse only a few minutes with **markdown**. From creating a unique and impressive resume, to just creating a fun website for whatever your passionate about, markdown and github has made coding easy!.
 
