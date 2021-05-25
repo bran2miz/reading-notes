@@ -23,4 +23,26 @@ Although easily accessed for the majority of computer users, Text Edit **does no
 
 ### 2. Third Party Software
 
+- Third Party Software is the text editors in which you can install. Some examples that the article lists are as follows:
+
+1. Notepad++
+2. Text Wrangler
+3. BB Edit
+4. Visual Studio Code
+5. Atom
+6. Brackets
+7. Sublime Text
+
+Visual Studio Code (VS Code) created by Microsoft, has everything you need in a text editing software! All of the mentioned features that text edit did not possess, VS Code can accomplish and more!
+
+### IDE (Integrated Development Environment)
+
+IDE is essentially a "one-stop shop" for everything you need to edit your text for coding. 
+
+1. First and foremost, it is a text editor
+2. Manages files
+3. Debugs 
+4. Translates computer programming codes into codes that the computer is able to process. 
+
+The blogger did mention that whilst he uses third party software, the more immersed one becomes in the world of coding, being able to use IDE should be easily managable. 
 
