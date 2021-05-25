@@ -27,6 +27,8 @@ Even though this is just the start, growth mindset is the desire to want to make
 > https://github.com/bran2miz
 
 
-### This is a Heading 3
-#### This is a Heading 4
-###### This is a Heading 6
+### Table of Contents for Reading Notes
+
+    - [Reading 1](markdownnotes.md)
+    - [Reading 2](coderscomputer.md)
+    - [Reading 3](github.md)
