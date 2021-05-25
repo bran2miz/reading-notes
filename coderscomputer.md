@@ -46,3 +46,32 @@ IDE is essentially a "one-stop shop" for everything you need to edit your text f
 
 The blogger did mention that whilst he uses third party software, the more immersed one becomes in the world of coding, being able to use IDE should be easily managable. 
 
+# Reading Notes for Terminal Articles
+
+## How Commands Are Used
+
+- Commands are implored through text in an area known as **The Terminal**. The ternimal receives a specific command from the User, which then prompts a response. 
+
+### Steps for the Terminal
+
+1. Type in command 
+  - ie (ls) is a command, which is the abbrievation for list.
+2. Terminal agrument- changes the conduct of the remaining chains of command 
+  - ie ( -l) 
+3. Feedback is issued after command is processed.
+4. Upon the completion of the command, the terminal loops and starts back again with what is known as the "prompt" (via "https://ryanstutorials.net/linuxtutorial/commandline.php").
+
+### Shell
+
+The shell is essentially the area that allows the user to see how the commands are behaving (or not behaving) in the terminal.
+  - An example of a shell is called bash, which is an acronym for Bourne again shell. 
+
+#### Commands Basics within the Shell
+
+##### pwd
+
+Like the acronym for PWD suggests, the printing working directory essentially "prints" the directory. 
+
+##### Paths- A way in which to obtain "a file or diretory" within the terminal (via "https://ryanstutorials.net/linuxtutorial/navigation.php"). 
+
+According to this article, there are two types of paths, the absolute path, and the relative path. Both paths purposely locate a specfic file. However where they differ is the actual location. The absolute path locates a file witihin what is known as the root directory, or, the main area where all the subfiles are located. Relative path is the location to which the user is in at presently.
